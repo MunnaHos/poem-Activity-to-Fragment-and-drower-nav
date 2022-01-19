@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">poem</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="button3">Button3</string>
+    <string name="button4">Button4</string>
+    <string name="button5">Button5</string>
+    <string name="button6">Button6</string>
+    <string name="button7">Button7</string>
+    <string name="button8">Button8</string>
+    <string name="button9">Button9</string>
+    <string name="button10">Button10</string>
+    <string name="button11">Button11</string>
+    <string name="button12">Button12</string>
+    <string name="button13">Button13</string>
+    <string name="button14">Button14</string>
+    <string name="button15">Button15</string>
+    <string name="button16">Button16</string>
+    <string name="button17">Button17</string>
+
+    <string name="BonDona">
+        বন্দনা \n শাহ মুহম্মদ সগীর
+        \n
+        প্রথমে প্রণাম করি এক করতার।
+        যেই প্রভুর জীবদানে স্থাপিলা সংসার।।
+        দ্বিতীয়ে প্রণাম কঁরো মাও বাপ পাত্র।
+        যান দয়া হন্তে জন্ম হৈল বসুধায়।।
+        পিঁপড়ার ভয়ে মাও না থুইলা মাটিতে।
+        কোল দিয়া বুক দিয়া জগতে বিদিত।।
+        অশক্য আছিলুঁ দুর্বল ছাবাল
+        তান দয়া হন্তে হৈল এ ধড় বিশাল।।
+        না খাই খাওয়াএ পিতা না পরি পরাএ।
+        কত দুক্ষে একেএকে বছর গোঞাএ।।
+        পিতাক নেহায় জিউ জীবন যৌবন।
+        কনে না সুধিব তান ধারক কাহন।।
+        ওস্তাদে প্রণাম করো পিতা হন্তে বাড়।
+        দোসর-জনম দিলা তিঁহ সে অাহ্মার।।
+        আহ্মা পুরাবাসী আছ জথ পৌরজন।
+        ইস্ট মিত্র আদি জথ সভাসদগগণ।
+        তান সভান পদে মোহার বহুল ভকতি।
+        সপুটে প্রণাম মোহর মনোরথ গতি।।
+        মুহম্মদ সগীর হীন বহোঁ পাপ ভার।
+        সভানক পদে দোয়া মাগোঁ বার বার।\n\n
+    </string>
+
+    <string name="BonDona2">
+        বন্দনা \n শাহ মুহম্মদ সগীর
+        \n
+        প্রথমে প্রণাম করি এক করতার।
+        যেই প্রভুর জীবদানে স্থাপিলা সংসার।।
+        দ্বিতীয়ে প্রণাম কঁরো মাও বাপ পাত্র।
+        যান দয়া হন্তে জন্ম হৈল বসুধায়।।
+        পিঁপড়ার ভয়ে মাও না থুইলা মাটিতে।
+        কোল দিয়া বুক দিয়া জগতে বিদিত।।
+        অশক্য আছিলুঁ দুর্বল ছাবাল
+        তান দয়া হন্তে হৈল এ ধড় বিশাল।।
+        না খাই খাওয়াএ পিতা না পরি পরাএ।
+        কত দুক্ষে একেএকে বছর গোঞাএ।।
+        পিতাক নেহায় জিউ জীবন যৌবন।
+        কনে না সুধিব তান ধারক কাহন।।
+        ওস্তাদে প্রণাম করো পিতা হন্তে বাড়।
+        দোসর-জনম দিলা তিঁহ সে অাহ্মার।।
+        আহ্মা পুরাবাসী আছ জথ পৌরজন।
+        ইস্ট মিত্র আদি জথ সভাসদগগণ।
+        তান সভান পদে মোহার বহুল ভকতি।
+        সপুটে প্রণাম মোহর মনোরথ গতি।।
+        মুহম্মদ সগীর হীন বহোঁ পাপ ভার।
+        সভানক পদে দোয়া মাগোঁ বার বার।\n\n
+    </string>
+    <string name="open">Open</string>
+    <string name="close">close</string>
+    <string name="my_text">My_text</string>
+</resources>
